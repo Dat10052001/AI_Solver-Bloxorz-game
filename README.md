@@ -27,3 +27,4 @@ python3 ./bloxorz.py -s bfs
 python3 ./bloxorz.py -s dfs
 ```
 ### OPEN THE GAME AFTER RUNNING CODE, WAITING FOR AI PLAY !!!
+(Please watch the video and report with specific instructions!)
