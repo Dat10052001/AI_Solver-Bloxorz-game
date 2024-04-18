@@ -1,8 +1,7 @@
 ## BLOXORZ Game Search
----
 
 Python implementation of BFS, DFS and A* search for first level of Bloxorz game.
-Open the game in [this link](https://www.coolmathgames.com/0-bloxorz)]
+Open the game in [this link](https://www.coolmathgames.com/0-bloxorz)
 #### INSTALL LIBRARY
 ```
 pip install pydirectinput 
@@ -27,4 +26,4 @@ python3 ./bloxorz.py -s bfs
 ```
 python3 ./bloxorz.py -s dfs
 ```
-###
+### OPEN THE GAME AFTER RUNNING CODE, WAITING FOR AI PLAY !!!
